@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [followEm_project.PrjPcb]
+   Generated File[followEm.RUL]
+   Generated File[followEm.EXTREP]
+   Generated File[followEm.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:10:28 On 20/08/2019
